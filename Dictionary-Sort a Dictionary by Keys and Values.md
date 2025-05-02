@@ -46,15 +46,12 @@ print("Sorted by Values:", sorted_by_values)
 
 ## Sample Output
 Original Dictionary:
-
 {'apple': 'fruit', 'carrot': 'vegetable', 'banana': 'fruit', 'broccoli': 'vegetable'}
 
 Sorted by Keys: 
-
 {'apple': 'fruit', 'banana': 'fruit', 'broccoli': 'vegetable', 'carrot': 'vegetable'}
 
 Sorted by Values: 
-
 {'apple': 'fruit', 'banana': 'fruit', 'carrot': 'vegetable', 'broccoli': 'vegetable'}
 
 
