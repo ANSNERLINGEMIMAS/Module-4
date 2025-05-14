@@ -33,8 +33,8 @@ print("The area of the circle is:", area)
 ```
 
 ## Output
-Enter the radius of the circle: 5  
-The area of the circle is: 78.53981633974483
+![Screenshot 2025-05-14 091135](https://github.com/user-attachments/assets/bf8ce102-e7c9-4b6e-b538-6f29c013fa9b)
+
 
 ## Result
 The program successfully calculates and prints the area of the circle using the radius provided by the user, with the calculation handled in the mech method of the cse class.
