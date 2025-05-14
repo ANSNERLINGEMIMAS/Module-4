@@ -25,7 +25,7 @@ print("Merged Dictionary:", merged_result)
 ```
 
 ## Output
-Merged Dictionary: {'a': 1, 'b': 4, 'c': 3, 'd': 5}
+![Screenshot 2025-05-14 091349](https://github.com/user-attachments/assets/44613201-dede-416b-bb8b-9a7fe9647ce7)
 
 
 ## Result
