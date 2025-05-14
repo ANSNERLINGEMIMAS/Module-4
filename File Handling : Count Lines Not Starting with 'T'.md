@@ -27,13 +27,7 @@ print("Number of lines that do not start with 'T':", count)
 ```
 
 ## Output
-story.txt=The sun sets in the west.
-          A beautiful day.
-          The moon rises at night.
-          Dogs are loyal.
-         The stars shine brightly.
-
-Number of lines that do not start with 'T': 2
+![Screenshot 2025-05-14 093542](https://github.com/user-attachments/assets/f3698a4c-76b6-4c09-9a97-03c8a25b2e36)
 
 
 ## Result
