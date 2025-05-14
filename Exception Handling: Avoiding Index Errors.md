@@ -23,7 +23,7 @@ except IndexError:
 ```
 
 ## Output
-You're out of list range
+![Screenshot 2025-05-14 091814](https://github.com/user-attachments/assets/ccbc6291-fa4f-4b7a-92f1-6aa0642d8e1c)
 
 
 ## Result
