@@ -11,22 +11,15 @@ To write a Python program that merges **two dictionaries** and combines their ke
 
 ## 🧾 Program
 ```
-def merge(dict1, dict2):
-    merged_dict = {**dict1, **dict2}  # Merges dict1 and dict2, dict2 overwrites dict1 if keys are the same
-    return merged_dict
-
-# Define two dictionaries
-dict1 = {'a': 1, 'b': 2, 'c': 3}
-dict2 = {'b': 4, 'd': 5}
-
-# Call the merge function and print the result
-merged_result = merge(dict1, dict2)
-print("Merged Dictionary:", merged_result)
+dict1={'Ten': 10,'Twenty': 20,'Thirty': 30} 
+dict2={'Thirty': 30,'Fourty': 40,'Fifty': 50} def 
+merge (dict1,dict2): 
+res={**dict1 , **dict2} return 
+res 
+dict3=merge(dict1,dict2) 
+print(dict3)
 ```
-
 ## Output
-![Screenshot 2025-05-14 091349](https://github.com/user-attachments/assets/44613201-dede-416b-bb8b-9a7fe9647ce7)
-
-
+![Screenshot (145)](https://github.com/user-attachments/assets/e8333efb-3f5c-488e-bca7-cb30b9252da2)
 ## Result
 The program successfully merges the two dictionaries. In case of duplicate keys, the value from dict2 overwrites the one from dict1.
