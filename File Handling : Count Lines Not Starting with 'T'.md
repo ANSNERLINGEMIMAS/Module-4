@@ -27,7 +27,7 @@ print("Number of lines that do not start with 'T':", count)
 ```
 
 ## Output
-![WhatsApp Image 2025-05-21 at 13 59 04_77f479fd](https://github.com/user-attachments/assets/537ade25-c65f-49a4-854d-74f418019ed3)
+![Screenshot 2025-05-21 140832](https://github.com/user-attachments/assets/d1eaca50-6c01-4ff2-a788-5fe9e56567fb)
 
 
 
